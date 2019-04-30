@@ -1,0 +1,12 @@
+//  The contents of this file are implicitly included at the beginning of every test case source file.
+
+#ifdef __OBJC__
+
+//#import "EasyAction_Tests-Swift.h"
+#import "CustomMatchers.h"
+#import "ERPerson.h"
+#import "ERFamilyOperator.h"
+#import "ERFamily.h"
+#import "EasyAction_Tests-Swift.h"
+
+#endif
